@@ -7,9 +7,11 @@
 | Two Sum | Easy |
 | Contains Duplicate | Easy |
 | Group Anagrams | Medium |
-| Is Palindrome | Easy |
 | Valid Anagrams | Easy |
+| Valid Palindrome | Easy |
+| Palindrome Number | Easy |
 | Separate the Digits in an Array | Easy |
+| Top K Frequent Elements | Medium |
 | Fizz Buzz | Easy |
 
 ---
@@ -20,4 +22,4 @@ Kira kira gitu lah ya
 
 ![Kicau Mania](https://media.tenor.com/Rd0jrWH5JjgAAAAM/cat-scuba.gif)
 
-**Last Update:** May 12, 2026
+**Last Update:** May 13, 2026
