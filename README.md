@@ -2,6 +2,15 @@
 
 ![Kicau Mania](https://media.tenor.com/Rd0jrWH5JjgAAAAM/cat-scuba.gif)
 
+## Structure
+```
+python/
+  easy/      (10 problems)
+  medium/    (6 problems)
+  hard/      (0 problems)
+sql/         (5 problems)
+```
+
 | Problem | Difficulty |
 |---------|------------|
 | Two Sum | Easy |
