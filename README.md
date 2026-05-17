@@ -6,8 +6,8 @@
 ```
 python/
   easy/      (10 problems)
-  medium/    (6 problems)
-  hard/      (0 problems)
+  medium/    (5 problems)
+  hard/      (1 problem)
 sql/         (5 problems)
 ```
 
@@ -27,9 +27,16 @@ sql/         (5 problems)
 | Top K Frequent Elements | Medium |
 | Encode and Decode Strings | Medium |
 | Find Minimum in Rotated Sorted Array | Medium |
-| Find Minimum in Rotated Sorted Array II | Medium |
 | Jump Game | Medium |
 | Jump Game III | Medium |
+
+---
+
+## Hard Problems
+
+| Problem | Difficulty |
+|---------|------------|
+| Find Minimum in Rotated Sorted Array II | Hard |
 
 ---
 
@@ -37,14 +44,15 @@ sql/         (5 problems)
 
 | Problem | Difficulty |
 |---------|------------|
-| Combine Two Table | Easy || Find Customer Referee | Easy |
+| Combine Two Table | Easy |
+| Find Customer Referee | Easy |
 | Not Boring Movies | Easy |
 | Employees Earning More Than Their Managers | Easy |
 | Employees Whose Manager Left the Company | Easy |
 ---
 
-**Stats:** 22/27 problems listed (21 Easy, 5 Medium, 1 Hard)  
-*Note: 5 additional problems have been solved but not yet added to this list.*
+**Stats:** 21/27 problems documented (10 Easy Python, 5 Medium Python, 1 Hard Python, 5 SQL)  
+*Note: 6 additional problems solved but not yet added to this list.*
 
 ---
 
