@@ -6,20 +6,21 @@
 |---------|------------|
 | Two Sum | Easy |
 | Contains Duplicate | Easy |
-| Group Anagrams | Medium |
 | Valid Anagrams | Easy |
 | Valid Palindrome | Easy |
 | Palindrome Number | Easy |
 | Separate the Digits in an Array | Easy |
-| Top K Frequent Elements | Medium |
 | Fizz Buzz | Easy |
 | Best Time to Buy and Sell Stock | Easy |
-| Encode and Decode Strings | Medium |
-| Find Disappeared Numbers | Easy |
-| Find Minimum in Rotated Sorted Array 2 | Medium |
+| Find All Numbers Disappeared in an Array | Easy |
 | How Many Numbers are Smaller than Current Number | Easy |
-| Jump Game 1 | Medium |
-| Jump Game 3 | Medium |
+| Group Anagrams | Medium |
+| Top K Frequent Elements | Medium |
+| Encode and Decode Strings | Medium |
+| Find Minimum in Rotated Sorted Array | Medium |
+| Find Minimum in Rotated Sorted Array II | Medium |
+| Jump Game | Medium |
+| Jump Game III | Medium |
 
 ---
 
@@ -27,7 +28,14 @@
 
 | Problem | Difficulty |
 |---------|------------|
-| Combine Two Table | Easy |
+| Combine Two Table | Easy || Find Customer Referee | Easy |
+| Not Boring Movies | Easy |
+| Employees Earning More Than Their Managers | Easy |
+| Employees Whose Manager Left the Company | Easy |
+---
+
+**Stats:** 22/27 problems listed (21 Easy, 5 Medium, 1 Hard)  
+*Note: 5 additional problems have been solved but not yet added to this list.*
 
 ---
 
