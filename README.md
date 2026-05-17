@@ -13,13 +13,26 @@
 | Separate the Digits in an Array | Easy |
 | Top K Frequent Elements | Medium |
 | Fizz Buzz | Easy |
+| Best Time to Buy and Sell Stock | Easy |
+| Encode and Decode Strings | Medium |
+| Find Disappeared Numbers | Easy |
+| Find Minimum in Rotated Sorted Array 2 | Medium |
+| How Many Numbers are Smaller than Current Number | Easy |
+| Jump Game 1 | Medium |
+| Jump Game 3 | Medium |
 
 ---
 
-For detailed explanations of each solution, check out my LeetCode profile. Note: Not all solutions have explanations yet, only some of them. I'll be adding more explanations on the go.
+## SQL Problems
+
+| Problem | Difficulty |
+|---------|------------|
+| Combine Two Table | Easy |
+
+---
 
 Kira kira gitu lah ya
 
 ![Kicau Mania](https://media.tenor.com/Rd0jrWH5JjgAAAAM/cat-scuba.gif)
 
-**Last Update:** May 13, 2026
+**Last Update:** May 17, 2026
