@@ -29,32 +29,18 @@ sql/         (5 problems)
 | Max Consecutive Ones | Easy |
 | Shuffle the Array | Easy |
 | Concatenation of Array | Easy |
-| Group Anagrams | Medium |
-| Top K Frequent Elements | Medium |
-| Encode and Decode Strings | Medium |
-| Find Minimum in Rotated Sorted Array | Medium |
-| Jump Game | Medium |
-| Jump Game III | Medium |
-
----
-
-## Hard Problems
-
-| Problem | Difficulty |
-|---------|------------|
-| Find Minimum in Rotated Sorted Array II | Hard |
-
----
-
-## SQL Problems
-
-| Problem | Difficulty |
-|---------|------------|
 | Combine Two Table | Easy |
 | Find Customer Referee | Easy |
 | Not Boring Movies | Easy |
 | Employees Earning More Than Their Managers | Easy |
 | Employees Whose Manager Left the Company | Easy |
+| Group Anagrams | Medium |
+| Top K Frequent Elements | Medium |
+| Find Minimum in Rotated Sorted Array | Medium |
+| Jump Game | Medium |
+| Jump Game III | Medium |
+| Find Minimum in Rotated Sorted Array II | Hard |
+
 ---
 
 **Stats:** 27/27 problems documented (16 Easy Python, 5 Medium Python, 1 Hard Python, 5 SQL)
