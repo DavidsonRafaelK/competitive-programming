@@ -5,7 +5,7 @@
 ## Structure
 ```
 python/
-  easy/      (10 problems)
+  easy/      (16 problems)
   medium/    (5 problems)
   hard/      (1 problem)
 sql/         (5 problems)
@@ -23,6 +23,12 @@ sql/         (5 problems)
 | Best Time to Buy and Sell Stock | Easy |
 | Find All Numbers Disappeared in an Array | Easy |
 | How Many Numbers are Smaller than Current Number | Easy |
+| Power of Two | Easy |
+| Check if Array is Good | Easy |
+| Set Mismatch | Easy |
+| Max Consecutive Ones | Easy |
+| Shuffle the Array | Easy |
+| Concatenation of Array | Easy |
 | Group Anagrams | Medium |
 | Top K Frequent Elements | Medium |
 | Encode and Decode Strings | Medium |
@@ -51,8 +57,7 @@ sql/         (5 problems)
 | Employees Whose Manager Left the Company | Easy |
 ---
 
-**Stats:** 21/27 problems documented (10 Easy Python, 5 Medium Python, 1 Hard Python, 5 SQL)  
-*Note: 6 additional problems solved but not yet added to this list.*
+**Stats:** 27/27 problems documented (16 Easy Python, 5 Medium Python, 1 Hard Python, 5 SQL)
 
 ---
 
