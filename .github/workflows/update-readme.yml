@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "python/**"
+      - "sql/**"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate README
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update README.md"
+          file_pattern: README.md
